@@ -1,0 +1,110 @@
+
+.container{
+	width: 100%;
+	min-height: 100vh;
+}
+
+.text9{
+	width: 40%;
+	height: 2.5vh;
+	background: white;
+	position: absolute;
+	top: 20px;
+	left: 370px;
+	font-size: 17.5px;
+	color: black;
+	text-align: center;
+}
+.r{
+	width: 50%;
+	height: 50vh;
+	border-radius: 3%;
+	position: absolute;
+	left: 300px;
+}
+
+.t{
+	width: 50%;
+	height: 50vh;
+	border-radius: 3%;
+	position: absolute;
+	left: 300px;
+	top: 500px;
+}
+
+.e{
+	width: 50%;
+	height: 50vh;
+	border-radius: 3%;
+	position: absolute;
+	left: 300px;
+	top: 1000px;
+}
+
+.x{
+	width: 50%;
+	height: 50vh;
+	border-radius: 3%;
+	position: absolute;
+	left: 300px;
+	top: 1500px;
+}
+
+.h{
+	width: 50%;
+	height: 50vh;
+	border-radius: 3%;
+	position: absolute;
+	left: 300px;
+	top: 2000px;
+}
+
+.q{
+	position: absolute;
+	top: 520px;
+}
+
+.w{
+	position: absolute;
+	top: 1020px;
+}
+
+.y{
+	position: absolute;
+	top: 1520px;
+}
+
+.u{
+	position: absolute;
+	top: 2020px;
+}
+
+.j{
+	display: inline-block;
+	overflow: hidden;
+}
+
+.j img{
+	transition: 1s;
+	display: block;
+}
+
+.j:hover{
+	transform: scale(1.2);
+	transition-duration: 1s;
+}
+
+.text9{
+	display: inline-block;
+	overflow: hidden;
+}
+
+.text9 img{
+	transition: 1s;
+	display: block;
+}
+
+.text9:hover{
+	transform: scale(1.2);
+	transition-duration: 1s;
+}
